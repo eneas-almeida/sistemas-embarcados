@@ -1,4 +1,4 @@
-# Sistemas Embarcados
+# Sistemas Embarcados 👩‍💻
 
 ## Equipe :
 
@@ -6,7 +6,7 @@
 * [Erickson Tulio Rodrigues Azevêdo](https://github.com/Erickson-Eng)
 * [Edivam Enéas de Almeida Júnior](https://github.com/venzel)
 
-## Projeto 🗒
+## Projeto 💻 🗒
 
 ## Dispositivo de alerta de gás inflamável e temperatura
 
