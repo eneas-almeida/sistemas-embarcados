@@ -1,5 +1,7 @@
 # Sistemas Embarcados
 
+## Equipe :
+## Joab da Silva Maia, Erickson Tulio Rodrigues Azevêdo, Edivam Enéas de Almeida Júnior
 ## Projeto
 
 ## Dispositivo de alerta de gás inflamável e temperatura
