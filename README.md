@@ -1,4 +1,4 @@
-# Sistemas Embarcados 👩‍💻
+# Sistemas Embarcados 📚 
 
 ## Equipe :
 
