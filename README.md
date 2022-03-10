@@ -6,8 +6,14 @@
 
 ### 2 - Objetivos
 
-  Geral
-  Especificos
+- Geral
+
+  - O objetivo geral deste trabalho é o desenvolvimento de uma hardware de
+segurança doméstica para fornecer um sinal de alarme ao usuário caso aconteça
+vazamento de gás, além de informações na tela de temperatura.
+- Especificos
+  - Criar um prototipo que seja capaz de realizar detecção de gás, apresentação de resultados via display e também conseguir realizar envio de mensagens SMS para o dispositivo cadastrado.
+
   
 ### 3 - Resumo das arquiteturas
 
