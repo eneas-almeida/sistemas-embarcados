@@ -14,6 +14,11 @@
   O projeto ...
   
   1.  Hardware
+
+  ![Placa e Case completo](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/static/Placa%20e%20case.jpeg)
+
+  ![Placa e case inferior](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/static/Placa%20sem%20case%20superior.jpeg)
+  
   2.  Firmaware e/ou Software/App 
   
 ### 4 - Resumo dos Resultados
