@@ -2,7 +2,7 @@
 
 ### 1 - Descrição do projeto:
 
-##### Este projeto é um dispostivo de alerta sonoro e SMS, mediante a detecção de gases inflamáveis e temperaturas elevadas.
+Nesse projeto foi realizado desenvolvimento de um sistema embarcado que é capaz de identificar vazamento de gases, além disso, também apresenta todas as informações desse vazamento a partir de um display led e faz envio de mensagens SMS para celulares cadastrados em uma aplicação integrada.
 
 ### 2 - Objetivos
 
