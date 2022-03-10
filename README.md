@@ -20,7 +20,10 @@
   ![Placa e case inferior](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/static/Placa%20sem%20case%20superior.jpeg)
   
   2.  Firmaware e/ou Software/App 
+
+  ![foto](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/static/Foto2.jpeg)
   
+  ![foto 2](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/static/Foto1.jpeg)
 ### 4 - Resumo dos Resultados
 
 ### 5 - Grupo
