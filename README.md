@@ -61,7 +61,11 @@ A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos constr
 
 [![Vídeo do protótipo](https://img.youtube.com/vi/XGZ1nPyMRSw/0.jpg)](https://www.youtube.com/watch?v=XGZ1nPyMRSw)
 
-## 9. Resumo dos Resultados
+## 9. Diagrama de processo
+
+![Diagrama de processo](./images/diagrama-processo.png)
+
+## 10. Resumo dos Resultados
 
 Nesse projeto foi possivel construir um prototipo capaz de realizar a detecção de gases no qual, além disso, dispara alertas tanto para sua propria interface que é um componente LCD de 16 colunas e duas linhas, um alto-falante para emitir sinais sonoros e por fim interfaces externas com o uso de mensagem via SMS.
 
