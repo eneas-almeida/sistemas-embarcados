@@ -11,9 +11,9 @@
 
 ## 3. Grupo
 
--   [Joab da Silva Maia](https://github.com/JoabMaia)
--   [Erickson Tulio Rodrigues Azevêdo](https://github.com/Erickson-Eng)
 -   [Edivam Enéas de Almeida Júnior](https://github.com/venzel)
+-   [Erickson Tulio Rodrigues Azevêdo](https://github.com/Erickson-Eng)
+-   [Joab da Silva Maia](https://github.com/JoabMaia)
 
 ## 4. Descrição do projeto
 
@@ -57,7 +57,11 @@ A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos constr
 👉 [Teste da conexão com o wifi](./codes/teste_wifi/teste_wifi.ino)<br />
 👉 [Código final do projeto](./codes/codigo_final_projeto/codigo_final_projeto.ino)
 
-## 8. Resumo dos Resultados
+## 8. Vídeo do protótipo
+
+[![Vídeo do protótipo](https://img.youtube.com/vi/XGZ1nPyMRSw/0.jpg)](https://www.youtube.com/watch?v=XGZ1nPyMRSw)
+
+## 9. Resumo dos Resultados
 
 Nesse projeto foi possivel construir um prototipo capaz de realizar a detecção de gases no qual, além disso, dispara alertas tanto para sua propria interface que é um componente LCD de 16 colunas e duas linhas, um alto-falante para emitir sinais sonoros e por fim interfaces externas com o uso de mensagem via SMS.
 
