@@ -43,7 +43,7 @@ public:
 protected:
   void enviaSms() {
     if (client.connect("maker.ifttt.com", 80)) {
-      chave_servico = "cTRgedBgpB_uka5vJfFoSZ";
+      chave_servico = "cTRgedBgpB_uka5vJfFoSZx";
       evento_servico = "sms_micro";
       p = post_rqst;
       p = append_str(p, "POST /trigger/");
