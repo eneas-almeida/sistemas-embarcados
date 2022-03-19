@@ -49,8 +49,6 @@ A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos constr
 
 ![foto 2](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/hardware/Foto1.jpeg)
 
-### 6.2. Firmaware e/ou Software/App
-
 ## 7. Códigos
 
 👉 [Teste do display lcd com I2C](./codes/teste_lcd_I2C/teste_lcd_I2C.ino)<br />
@@ -80,3 +78,16 @@ Foi possivel atingir os seguintes objetivos adicionais:
 -   Instalação de libs dos módulos.
 -   Realizar a implementação de thread.
 -   Implementar sistema de interrupções.
+
+## 12. Link dos arquivos
+
+👉 [Esquema elétrico (EAGLE)](./3d/projeto_dispositivo_alarme_gas/esquema_eletrico/esquema_eletrico_eagle.sch)<br />
+👉 [Esquema elétrico (FUSION)](./3d/projeto_dispositivo_alarme_gas/esquema_eletrico/esquema_eletrico_fusion.fsch)<br />
+👉 [Imagens com furos da PCB (PARTE INFERIOR)](./3d/projeto_dispositivo_alarme_gas/imagem_bottom_side_da_pcb_manufacturing/imagem_bottom_side_da_pcb_manufacturing.png)<br />
+👉 [Imagens com furos da PCB (PARTE SUPERIOR)](./3d/projeto_dispositivo_alarme_gas/imagem_top_side_da_pcb_manufacturing/imagem_top_side_da_pcb_manufacturing.png)<br />
+👉 [Medidas dos furos da PCB (1)](./3d/projeto_dispositivo_alarme_gas/imagem_drils_da_pcb/imagem_drils_da_pcb.png)<br />
+👉 [Medidas dos furos da PCB (2)](./3d/projeto_dispositivo_alarme_gas/imagem_drils_da_pcb/metricas_drills.csv)<br />
+👉 [Layout da PCB (EAGLE)](./3d/projeto_dispositivo_alarme_gas/layout_da_pcb/layout_da_pcb_eagle.brd)<br />
+👉 [Layout da PCB (FUSION)](./3d/projeto_dispositivo_alarme_gas/layout_da_pcb/layout_da_pcb_fusion.fbrd)<br />
+👉 [Desenho 3D - Apenas PCB (FUSION)](./3d/projeto_dispositivo_alarme_gas/modelo_3d_da_pcb/modelo_3d_da_pcb.f3d)<br />
+👉 [Desenho 3D - PCB + CASE (FUSION)](./3d/projeto_dispositivo_alarme_gas/modelo_3d_da_pcb/modelo_3d_da_pcb_e_case.f3z)
