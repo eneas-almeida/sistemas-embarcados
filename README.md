@@ -1,11 +1,11 @@
 # Sistemas Embarcados - 2021.2
 
-### 1. Instituição
+## 1. Instituição
 
 -   Instituto Federal da Paraíba - IFPB
 -   Campus Campina Grande
 
-### 2. Docente responsável
+## 2. Docente responsável
 
 -   [Professor Dr. Alexandre Sales Vasconcelos](https://github.com/alexandresvifpb)
 
