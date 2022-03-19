@@ -23,17 +23,15 @@ Nesse projeto foi realizado desenvolvimento de um sistema embarcado que é capaz
 
 ### 5.1. Geral
 
--   O objetivo geral deste trabalho é o desenvolvimento de uma hardware de
-    segurança doméstica para fornecer um sinal de alarme ao usuário caso aconteça
-    vazamento de gás, além de informações na tela de temperatura.
+-   O objetivo geral deste trabalho é o desenvolvimento de uma hardware de segurança doméstica para fornecer um sinal de alarme ao usuário caso aconteça vazamento de gás, além de informações na tela de temperatura.
 
-### 5.2. Especificos
+### 5.2. Específicos
 
 -   Criar um prototipo que seja capaz de realizar detecção de gás, apresentação de resultados via display e também conseguir realizar envio de mensagens SMS para o dispositivo cadastrado.
 
 ## 6. Resumo das arquiteturas
 
-A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos construidos no aplicativo fusion 360 e em seguida no topico 2 _Firmaware e/ou Software/App_ é apresentado as especificações como circuito eletrico e PCB
+A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos construídos no aplicativo fusion 360 e em seguida no tópico 2 _Firmaware e/ou Software/App_ é apresentado as especificações como circuito eletrico e PCB.
 
 ### 6.1. Desenhos
 
@@ -72,9 +70,9 @@ A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos constr
 
 ## 11. Resumo dos Resultados
 
-Nesse projeto foi possivel construir um prototipo capaz de realizar a detecção de gases no qual, além disso, dispara alertas tanto para sua propria interface que é um componente LCD de 16 colunas e duas linhas, um alto-falante para emitir sinais sonoros e por fim interfaces externas com o uso de mensagem via SMS.
+Nesse projeto foi possível construir um protótipo capaz de realizar a detecção de gases no qual, além disso, dispara alertas tanto para sua própria interface que é um componente LCD de 16 colunas e duas linhas, um alto-falante para emitir sinais sonoros e por fim interfaces externas com o uso de mensagem via SMS.
 
-Foi possivel atingir os seguintes objetivos adicionais:
+Foi possível atingir os seguintes objetivos adicionais:
 
 -   Instalação de libs dos módulos.
 -   Realizar a implementação de thread.
