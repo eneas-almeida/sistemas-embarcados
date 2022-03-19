@@ -49,7 +49,7 @@ A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos constr
 
 ![foto 2](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/hardware/Foto1.jpeg)
 
-## 7. Códigos
+## 7. Firmware
 
 👉 [Teste do display lcd com I2C](./codes/teste_lcd_I2C/teste_lcd_I2C.ino)<br />
 👉 [Teste do sensor de temperatura](./codes/teste_sensor_temperatura/teste_sensor_temperatura.ino)<br />
@@ -84,7 +84,7 @@ Outro recurso importante que também implementado foi a integração do sistema 
 -   Instalação de libs dos módulos.
 -   Realizar a implementação de threads.
 
-👉 [Relatório final do projeto (PDF)](./docs/relatorio-final.pdf)<br />
+👉 [Relatório final do projeto (PDF)](./results/relatorio-final.pdf)<br />
 
 ## 12. Link dos arquivos
 
