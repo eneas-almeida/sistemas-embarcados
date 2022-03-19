@@ -65,7 +65,11 @@ A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos constr
 
 ![Diagrama de processo](./images/diagrama-sensor-v4.png)
 
-## 10. Resumo dos Resultados
+## 10. Diagrama de bloco
+
+![Diagrama de bloco](./images/diagrama-bloco.png)
+
+## 11. Resumo dos Resultados
 
 Nesse projeto foi possivel construir um prototipo capaz de realizar a detecção de gases no qual, além disso, dispara alertas tanto para sua propria interface que é um componente LCD de 16 colunas e duas linhas, um alto-falante para emitir sinais sonoros e por fim interfaces externas com o uso de mensagem via SMS.
 
