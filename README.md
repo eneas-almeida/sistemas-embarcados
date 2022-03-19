@@ -7,7 +7,7 @@
 
 ### 2. Docente responsável
 
--   [Profesor Dr. Alexandre Sales Vasconcelos](https://github.com/alexandresvifpb)
+-   [Professor Dr. Alexandre Sales Vasconcelos](https://github.com/alexandresvifpb)
 
 ## 3. Grupo
 
@@ -51,7 +51,7 @@ A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos constr
 
 ## 7. Códigos
 
-👉 [Teste do display lcd com I2C](./codes/teste_lcd_I2C/codigo-projeto.ino)<br />
+👉 [Teste do display lcd com I2C](./codes/teste_lcd_I2C/teste_lcd_I2C.ino)<br />
 👉 [Teste do sensor de temperatura](./codes/teste_sensor_temperatura/teste_sensor_temperatura.ino)<br />
 👉 [Teste do sensor de gás](./codes/teste_sensor-gas/teste_sensor-gas.ino)<br />
 👉 [Teste da conexão com o wifi](./codes/teste_wifi/teste_wifi.ino)<br />
