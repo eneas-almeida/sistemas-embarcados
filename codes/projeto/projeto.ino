@@ -33,13 +33,6 @@ void setup() {
 
   lcd.begin(16, 2);
 
-  // Escalonador de tarefas
-  Scheduler.start(&crystalTask);
-  Scheduler.start(&wifiTask); 
-  Scheduler.start(&sensorTask); 
-  
-  Scheduler.begin();
-
   // Interrupcao
   pinMode(PIN_INT, INPUT);
 
@@ -106,6 +99,13 @@ void setup() {
 
   lcd.clear();
   lcd.print("AR DESCONTAMINAD");
+
+  // Escalonador de tarefas
+  Scheduler.start(&crystalTask);
+  Scheduler.start(&wifiTask); 
+  Scheduler.start(&sensorTask); 
+  
+  Scheduler.begin();
 }
 
 void calibracao() {
