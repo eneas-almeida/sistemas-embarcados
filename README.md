@@ -1,5 +1,7 @@
 # Sistemas Embarcados - 2021.2
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/venzel/sistemas-embarcados/blob/master/LICENSE)
+
 ## 1. Instituição
 
 -   Instituto Federal da Paraíba - IFPB
