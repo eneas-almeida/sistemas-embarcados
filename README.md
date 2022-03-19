@@ -35,17 +35,19 @@ Nesse projeto foi realizado desenvolvimento de um sistema embarcado que é capaz
 
 A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos construidos no aplicativo fusion 360 e em seguida no topico 2 _Firmaware e/ou Software/App_ é apresentado as especificações como circuito eletrico e PCB
 
-### 6.1. Hardware
+### 6.1. Desenhos
+
+-   3D
 
 ![Placa e Case completo](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/hardware/Placa%20e%20case.jpeg)
 
--   Circuito eletrico
-
-    ![foto](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/hardware/Foto2.jpeg)
-
 -   PCB
 
-    ![foto 2](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/hardware/Foto1.jpeg)
+![foto](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/hardware/Foto2.jpeg)
+
+-   Circuito elétrico
+
+![foto 2](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/hardware/Foto1.jpeg)
 
 ### 6.2. Firmaware e/ou Software/App
 
