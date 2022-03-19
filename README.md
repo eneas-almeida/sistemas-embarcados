@@ -67,7 +67,7 @@ A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos constr
 
 ## 10. Diagrama de bloco
 
-![Diagrama de bloco](./images/diagrama-bloco.png)
+![Diagrama de bloco](./images/modulo.jpeg)
 
 ## 11. Resumo dos Resultados
 
