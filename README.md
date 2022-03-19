@@ -72,13 +72,17 @@ A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos constr
 
 ## 11. Resumo dos Resultados
 
-Nesse projeto foi possível construir um protótipo capaz de realizar a detecção de gases no qual, além disso, dispara alertas tanto para sua própria interface que é um componente LCD de 16 colunas e duas linhas, um alto-falante para emitir sinais sonoros e por fim interfaces externas com o uso de mensagem via SMS.
+Nesse projeto foi possível construir um protótipo capaz de realizar a detecção de gases inflamáveis, além disso, através do sistema é possível disparar alertas tanto para sua própria interface que é um componente LCD de 16 colunas e duas linhas, um alto-falante para emitir sinais sonoros e por fim interfaces externas com o uso de mensagem via SMS.
 
-Foi possível atingir os seguintes objetivos adicionais:
+Outro recurso importante que também implementado foi a integração do sistema com uma api de envio de SMS, o IFTT, onde é possível através de uma chamada JSON, se comunicar com o serviço e efetuar disparos de SMS.
 
--   Instalação de libs dos módulos.
--   Realizar a implementação de thread.
+**Foi possível atingir os seguintes objetivos adicionais:**
+
 -   Implementar sistema de interrupções.
+-   Instalação de libs dos módulos.
+-   Realizar a implementação de threads.
+
+👉 [Relatório final do projeto (PDF)](./docs/relatorio-final.pdf)<br />
 
 ## 12. Link dos arquivos
 
