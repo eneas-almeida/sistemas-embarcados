@@ -55,7 +55,8 @@ A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos constr
 👉 [Teste do sensor de temperatura](./codes/teste_sensor_temperatura/teste_sensor_temperatura.ino)<br />
 👉 [Teste do sensor de gás](./codes/teste_sensor-gas/teste_sensor-gas.ino)<br />
 👉 [Teste da conexão com o wifi](./codes/teste_wifi/teste_wifi.ino)<br />
-👉 [Código final do projeto](./codes/codigo_final_projeto/codigo_final_projeto.ino)
+👉 [Código do projeto (v1)](./codes/codigo_final_projeto/codigo_final_projeto.ino)<br />
+👉 [Código do projeto (v2)](./codes/projeto)
 
 ## 8. Vídeo do protótipo
 
