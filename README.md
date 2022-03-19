@@ -63,7 +63,7 @@ A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos constr
 
 ## 9. Diagrama de processo
 
-![Diagrama de processo](./images/diagrama-sensor-v4.png)
+![Diagrama de processo](./images/diagrama-sensor-v5.png)
 
 ## 10. Diagrama de bloco
 
