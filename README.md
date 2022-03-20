@@ -49,28 +49,32 @@ A seguir é no tópico 1 _Hardware_ é apresentado a placa e o case ambos constr
 
 ![foto 2](https://github.com/Erickson-Eng/sistemas-embarcados/blob/main/hardware/Foto1.jpeg)
 
-## 7. Firmware
+## 7. Firmwares
 
-👉 [Teste do display lcd com I2C](./codes/teste_lcd_I2C/teste_lcd_I2C.ino)<br />
-👉 [Teste do sensor de temperatura](./codes/teste_sensor_temperatura/teste_sensor_temperatura.ino)<br />
-👉 [Teste do sensor de gás](./codes/teste_sensor-gas/teste_sensor-gas.ino)<br />
-👉 [Teste da conexão com o wifi](./codes/teste_wifi/teste_wifi.ino)<br />
-👉 [Código do projeto (v1)](./codes/codigo_final_projeto/codigo_final_projeto.ino)<br />
-👉 [Código do projeto (v2)](./codes/projeto)
+👉 [Teste do display lcd com I2C](./firmwares/teste_lcd_I2C/teste_lcd_I2C.ino)<br />
+👉 [Teste do sensor de temperatura](./firmwares/teste_sensor_temperatura/teste_sensor_temperatura.ino)<br />
+👉 [Teste do sensor de gás](./firmwares/teste_sensor-gas/teste_sensor-gas.ino)<br />
+👉 [Teste da conexão com o wifi](./firmwares/teste_wifi/teste_wifi.ino)<br />
+👉 [Código do projeto (v1)](./firmwares/codigo_final_projeto/codigo_final_projeto.ino)<br />
+👉 [Código do projeto (v2)](./firmwares/projeto)
 
 ## 8. Vídeo do protótipo
 
 [![Vídeo do protótipo](https://img.youtube.com/vi/XGZ1nPyMRSw/0.jpg)](https://www.youtube.com/watch?v=XGZ1nPyMRSw)
 
-## 9. Diagrama de processo
+## 9. Vídeo da apresentação
+
+[![Vídeo do protótipo](https://img.youtube.com/vi/j182I6oHwiY/0.jpg)](https://www.youtube.com/watch?v=j182I6oHwiY)
+
+## 10. Diagrama de processo
 
 ![Diagrama de processo](./images/diagrama-sensor-v5.png)
 
-## 10. Diagrama de bloco
+## 11. Diagrama de bloco
 
 ![Diagrama de bloco](./images/modulo.jpeg)
 
-## 11. Resumo dos Resultados
+## 12. Resumo dos Resultados
 
 Nesse projeto foi possível construir um protótipo capaz de realizar a detecção de gases inflamáveis, além disso, através do sistema é possível disparar alertas tanto para sua própria interface que é um componente LCD de 16 colunas e duas linhas, um alto-falante para emitir sinais sonoros e por fim interfaces externas com o uso de mensagem via SMS.
 
@@ -86,7 +90,7 @@ Outro recurso importante que também implementado foi a integração do sistema 
 
 👉 [Relatório final do projeto (PDF)](./results/relatorio-final.pdf)<br />
 
-## 12. Link dos arquivos
+## 13. Link dos arquivos
 
 👉 [Esquema elétrico (EAGLE)](./3d/projeto_dispositivo_alarme_gas/esquema_eletrico/esquema_eletrico_eagle.sch)<br />
 👉 [Esquema elétrico (FUSION)](./3d/projeto_dispositivo_alarme_gas/esquema_eletrico/esquema_eletrico_fusion.fsch)<br />
